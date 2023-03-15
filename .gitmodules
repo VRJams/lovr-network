@@ -30,7 +30,7 @@
 	url = https://github.com/lovr-org/pico_openxr_sdk
 [submodule "plugins/lua-https"]
 	path = plugins/lua-https
-	url = git@github.com:love2d/lua-https.git
+	url = git@github.com:VRJams/lua-https.git
 [submodule "plugins/lua-cjson"]
 	path = plugins/lua-cjson
 	url = git@github.com:bjornbytes/lua-cjson.git
